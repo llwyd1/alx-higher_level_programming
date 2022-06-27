@@ -12,4 +12,7 @@ File 4-print_float - is a python script that prints a float with precision of 2 
 
 File 5-print_string.py - is a python script that prints 3 times a string stored in str, followed by its first 9 characters <br>
 
-File 6-concat.py - is a python script that prints Welcome to Holberton School!
+File 6-concat.py - is a python script that prints Welcome to Holberton School! <br>
+
+File 7-edges.py - is a python script that prints different groups of letters of a string <br>
+
