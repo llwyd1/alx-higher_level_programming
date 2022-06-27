@@ -16,4 +16,7 @@ File 6-concat.py - is a python script that prints Welcome to Holberton School! <
 
 File 7-edges.py - is a python script that prints different groups of letters of a string <br>
 
-File 8-concat_edges.py - is a script that prints some text from a string <br>
+File 8-concat_edges.py - is a python script that prints some text from a string <br>
+
+File 9-easter_egg.py - is a python script that prints "The Zen of Python", by TimPeters, followed by a new line <br>
+
