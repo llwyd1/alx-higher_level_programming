@@ -7,3 +7,5 @@ File 1-run_inline - is a shell script that runs Python code saved in environment
 File 2-print.py - is a python script that prints text followed by a new line using the function print <br>
 
 File 3-print_number.py - is a python script that prints an integer followed by text, followed by a new line <br>
+
+File 4-print_float - is a python script that prints a float with precision of 2 digits <br>
