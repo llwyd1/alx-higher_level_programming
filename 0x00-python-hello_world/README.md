@@ -9,3 +9,5 @@ File 2-print.py - is a python script that prints text followed by a new line usi
 File 3-print_number.py - is a python script that prints an integer followed by text, followed by a new line <br>
 
 File 4-print_float - is a python script that prints a float with precision of 2 digits <br>
+
+File 5-print_string.py - is a python script that prints 3 times a string stored in str, followed by its first 9 characters <br>
