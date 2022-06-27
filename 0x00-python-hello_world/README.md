@@ -5,3 +5,5 @@ File 0-run - is a shell script that runs a python script saved in the environmen
 File 1-run_inline - is a shell script that runs Python code saved in environment variable $PYCODE <br>
 
 File 2-print.py - is a python script that prints text followed by a new line using the function print <br>
+
+File 3-print_number.py - is a python script that prints an integer followed by text, followed by a new line <br>
