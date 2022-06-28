@@ -10,4 +10,6 @@ File 3-print_alphabt.py - program that prints the ASCII alphabet except q and e 
 
 File 4-print_hexa.py - is a program that prints all numbers from 0 to 98 in decimal and in hexadecimal <br>
 
-File 5-print_comb2.py - is a program that prints numbers from 0 to 99
+File 5-print_comb2.py - is a program that prints numbers from 0 to 99 <br>
+
+File 6-print_comb3.py - is a program that prints all possible different combinations of two digits <br>
