@@ -3,3 +3,5 @@
 File 0-positive_or_negative.py - is a python script that detemines whether a random number is positive, negative or zero <br>
 
 File 1-last_digit.py - is a python script that outputs the last digit of a whole number <br>
+
+File 2-print_alphabet.py - is a python script that prints the ASCII alphabet in lowercase, not followed by a new line <br>
