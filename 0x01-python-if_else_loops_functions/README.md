@@ -5,3 +5,5 @@ File 0-positive_or_negative.py - is a python script that detemines whether a ran
 File 1-last_digit.py - is a python script that outputs the last digit of a whole number <br>
 
 File 2-print_alphabet.py - is a python script that prints the ASCII alphabet in lowercase, not followed by a new line <br>
+
+File 3-print_alphabt.py - is a python script that prints the ASCII alphabet except q and e <br>
