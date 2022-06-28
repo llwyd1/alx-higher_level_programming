@@ -6,6 +6,8 @@ File 1-last_digit.py - is a python script that outputs the last digit of a whole
 
 File 2-print_alphabet.py - is a python script that prints the ASCII alphabet in lowercase, not followed by a new line <br>
 
-File 3-print_alphabt.py - is a python script that prints the ASCII alphabet except q and e <br>
+File 3-print_alphabt.py - program that prints the ASCII alphabet except q and e <br>
 
-File 4-print_hexa.py - is a python script that prints all numbers from 0 to 98 in decimal and in hexadecimal <br>
+File 4-print_hexa.py - is a program that prints all numbers from 0 to 98 in decimal and in hexadecimal <br>
+
+File 5-print_comb2.py - is a program that prints numbers from 0 to 99
