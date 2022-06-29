@@ -13,3 +13,5 @@ File 4-print_hexa.py - is a program that prints all numbers from 0 to 98 in deci
 File 5-print_comb2.py - is a program that prints numbers from 0 to 99 <br>
 
 File 6-print_comb3.py - is a program that prints all possible different combinations of two digits <br>
+
+File 7-islower.c - is a function that checks for lowercase character. <br>
