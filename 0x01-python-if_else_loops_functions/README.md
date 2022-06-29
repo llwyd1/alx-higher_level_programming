@@ -23,3 +23,5 @@ File 9-print_last_digit.py - is a function that prints the last digit of a numbe
 File 10-add.py - is a function that adds two integers and returns the result <br>
 
 File 11-pow.py - is a function that computers a number to a certain power <br>
+
+File 12-fizzbuzz.py - funtion that prints numbers from 1 to 100 separated by a space. for multiples of 3 it prints Fizz, for multiples of 5 it prints Buzz and for multiples of both, it prints FizzBuzz <br>
