@@ -17,3 +17,5 @@ File 6-print_comb3.py - is a program that prints all possible different combinat
 File 7-islower.c - is a function that checks for lowercase character. <br>
 
 File 8-uppercase.py - is a function that prints a string in uppercase followed by a new line <br>
+
+File 9-print_last_digit.py - is a function that prints the last digit of a number <br>
