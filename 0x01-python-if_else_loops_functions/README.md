@@ -21,3 +21,5 @@ File 8-uppercase.py - is a function that prints a string in uppercase followed b
 File 9-print_last_digit.py - is a function that prints the last digit of a number <br>
 
 File 10-add.py - is a function that adds two integers and returns the result <br>
+
+File 11-pow.py - is a function that computers a number to a certain power <br>
