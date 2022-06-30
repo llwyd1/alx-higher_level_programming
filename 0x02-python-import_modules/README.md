@@ -7,3 +7,5 @@ File 1-calculation.py - is a program that imports funtions from the file calcula
 File 2-args.py - is a program that prints the number of and the list of its arguments <br>
 
 File 3-infinite_add.py - is a program that prints the result of the addition of all arguments <br>
+
+File 4-hidden_discovery.py - is a program that prints all the names defined by the compiled module hidden_4.pyc
