@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 
 def no_c(my_string):
-   
+
+    if my_string == "":
+        return None
+
     str_list = list(my_string)
 
     for i in str_list:
