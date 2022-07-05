@@ -13,3 +13,5 @@ File 4-new_in_list.py - is a function that replaces an element in a list at a sp
 File 5-no_c.py - is a function tha removes all characters c and C from a string <br>
 
 File 6-print_matrix_integer.py - is a function that prints a matrix of integers <br>
+
+File 7-add_tuple.py - is a function that adds two tuples
