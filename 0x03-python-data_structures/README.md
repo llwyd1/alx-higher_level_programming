@@ -14,4 +14,8 @@ File 5-no_c.py - is a function tha removes all characters c and C from a string 
 
 File 6-print_matrix_integer.py - is a function that prints a matrix of integers <br>
 
-File 7-add_tuple.py - is a function that adds two tuples
+File 7-add_tuple.py - is a function that adds two tuples <br>
+
+File 8- is a function that returns a tuple with the length of a string and its fist character <br>
+
+File 9-max_integer.py - is a function that finds the biggest integer of a list <br>
