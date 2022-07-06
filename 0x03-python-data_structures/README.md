@@ -23,3 +23,5 @@ File 9-max_integer.py - is a function that finds the biggest integer of a list <
 File 10-divisible_by_2.py - is a function that finds all multiples of 2 in a list <br>
 
 File 11-delete_at.py - is a function that deletes the item at a specific position in a list <br>
+
+File 12-switch.py - is a program that switches the values of two variables <br>
